@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "http://localhost:8000";
+const URL = "https://expensepie.onrender.com";
 
 export const addData = async (data) => {
   try {
